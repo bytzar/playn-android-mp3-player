@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Playn</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+    <string name="play">M6.07,0.76l48.03,35.89c2.03,1.52 2.03,4.56 0,6.08L6.07,78.62C3.56,80.49 0,78.7 0,75.58V3.8C0,0.68 3.56,-1.11 6.07,0.76Z</string>
+    <string name="pause">M4,0L4,0A4,4 0,0 1,8 4L8,75.38A4,4 0,0 1,4 79.38L4,79.38A4,4 0,0 1,0 75.38L0,4A4,4 0,0 1,4 0z M32.11,0L32.11,0A4,4 0,0 1,36.11 4L36.11,75.38A4,4 0,0 1,32.11 79.38L32.11,79.38A4,4 0,0 1,28.11 75.38L28.11,4A4,4 0,0 1,32.11 0z</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

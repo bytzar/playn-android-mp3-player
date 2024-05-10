@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_0">#37c8a8</color>
+    <color name="main_500">#37c8a8</color>
+    <color name="secondary_0">#6AD6BE</color>
+    <color name="secondary_500">#37c8a8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="coolgrennbutnotmain">#E7FFF0</color>
+    <color name="selectedColorSemiTransparent">#80000000</color>
+    <color name="trans">#00000000</color>
+
+
+</resources>
